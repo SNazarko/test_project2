@@ -35,3 +35,4 @@ flutter_svg: ^2.0.7
 equatable: ^2.0.5
 google_fonts: ^4.0.4
 
+APK - https://drive.google.com/file/d/1RjUMlpanGlx3bhjv5Gpla-VBXxTtf2si/view?usp=sharing
