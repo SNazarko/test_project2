@@ -167,7 +167,7 @@ class _DetailInfoWifiPageState extends State<DetailInfoWifiPage> {
                 MainButton(
                     text: 'Connect',
                     onTap: () async {
-                      AppSettings.openWIFISettings();
+                      AppSettings.openAppSettingsPanel(AppSettingsPanelType.wifi);
                     }),
               ],
             )
